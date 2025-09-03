@@ -331,6 +331,10 @@ padding-top: 50px;
     
 }
 
+.contact-card a {
+    font-weight: 600;
+}
+
 .contact-inputs {
     display: flex;
     flex-direction: column;
@@ -346,6 +350,7 @@ padding-top: 50px;
  
 }
 
+
 input {
     padding: 20px 30px;
     border-radius: 10px;
@@ -357,6 +362,16 @@ textarea {
     
     padding: 40px;
     border-radius: 10px;
+    
+}
+
+.btn-enviar {
+    padding: 10px 30px;
+    background: white;
+    border-radius: 20px;
+    font-weight: 600;
+    
+    
     
 }
 
