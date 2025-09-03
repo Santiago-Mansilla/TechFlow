@@ -289,8 +289,8 @@ input[type="submit"] {
 
    @media (min-width:1024px) {
     
-    .logo {
-        width: 600px;
+    .logo:hover {
+        transform: translateY(5px);
     }
     
     .btn-login:hover {
